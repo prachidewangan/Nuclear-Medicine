@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[paper=a4paper,left=3cm, right=3cm, top=2cm]{geometry}
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage{pgfplots}
+\usepackage{float}
+\usepackage{biblatex} %Imports biblatex package
+\usepackage{amsmath}
+\pgfplotsset{compat = newest}
+
+\title{\textbf{Nuclear medicine imaging of neuroendocrine tumours}}
+\author{Prachi Dewangan \\ \textit{Department of Biomedical Engineering} \\ National Institute of Technology, Raipur}
+
+\begin{document}
+
+\maketitle
+
+\section*{Aim}
+To study about the potential of several nuclear medicine techniques in the diagnosis of neuroendocrine tumours and stresses the renewed role of nuclear medicine in the management of this disease. 
+\section*{Keywords}
+     
+\section*{ Term paper highlights}
+
+\begin{itemize}
+    \item About neuroendocrine tumors 
+    \item Radiopharmaceuticals for neuroendocrine tumours imaging. 
+    \item Clinical applications of nuclear medicine imaging. 
+\end{itemize} 
+
+\begin{enumerate}
+    \item \textbf{scintigraphy:}  a technique in which a scintillation counter or similar detector is used with a radioactive tracer to obtain an image of a bodily organ or a record of its functioning.  
+    \item \textbf{neuroendocrine tumours:}  A tumor that forms from cells that release hormones into the blood in response to a signal from the nervous system.
+     \item \textbf{Radiopharmaceuticals:}  agents used to diagnose certain medical problems or treat certain diseases
+     \item \textbf{Dosimeters:}  It is a device that measures dose uptake of external ionizing radiation.
+     \item \textbf{angiography:}  is a type of X-ray used to check blood vessels.
+     \item \textbf{Radiation:}  the emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.
+    
+\end{enumerate}
+\end{document}
