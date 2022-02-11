@@ -1,0 +1,29 @@
+\documentclass{article}
+	\usepackage[utf8]{inputenc}
+	\usepackage{graphicx}
+	\usepackage[paper=a4paper,left=3cm, right=3cm, top=2cm]{geometry}
+	\usepackage{blindtext}
+	\usepackage{multicol}
+	\usepackage{pgfplots}
+	\usepackage{float}
+	\usepackage{biblatex} %Imports biblatex package
+	\usepackage{amsmath}
+	\pgfplotsset{compat = newest}
+	
+	\title{\textbf{Nuclear medicine imaging of neuroendocrine tumours}}
+	\author{Prachi Dewangan \\ \textit{Department of Biomedical Engineering} \\ National Institute of Technology, Raipur}
+	
+	\begin{document}
+	
+	\maketitle
+	
+	
+	
+	\section*{Abstract}
+	In nuclear medicine, various tracers have been proposed to visualise neuroendocrine tumours; the majority are based on certain absorption mechanisms, while others are atypical. Radiolabeled metaiodobenzylguanidine (123I or 131I-MIBG) are two of the most important gamma-emitting tracers "It's worth mentioning in-pentetreotide. Good results can be obtained, in particular, with ' "In-pentetreotide scanning, which detects more than 70% of all neuroendocrine tumours and has a diagnostic sensitivity superior to that of conventional radiological imaging in some indications, such as GEP tumours, has a diagnostic sensitivity superior to that of conventional radiological imaging. At the moment, radiolabelled monoclonal antibodies are primarily of historical relevance, but a variety of novel peptides offer intriguing issues in areas that are now being investigated. Positron emission tomography (PET) is a successful cancer detection method that has recently showed a high diagnostic value across a wide range of tumour types. PET using 18F-deoxyglucose (FDG) has also been used to identify neuroendocrine tumours. Even though 18F-FDG has been widely used in cancer, it has yet to show a significant absorption in well-differentiated neuroendocrine tissues. Other positron emitter tracers, on the other hand, appear to be more promising. Carcinoids have showed an enhanced absorption of the serotonin precursor 5-hydroxytryptophan (5-HTP) labelled with "C." This selective uptake appears to enable for the detection of more lesions with PET than with CT or octreotide scintigraphy, according to some clinical evidence.
+  \section*{Introduction}
+  Low incidence, low proliferation rate, and sometimes hypersecretion of biologically active chemicals are all characteristics that separate neuroendocrine tumours from other cancers. Because of the presence of unique secretory products and cytoplasmic proteins, they have a distinct histological pattern. These tumours have been the subject of research for the past 20 years, with the goal of better biological classification and the development of new management techniques. As a result, tremendous progress has been made in both diagnosis and therapy.
+  In terms of imaging procedures, advances in computed tomography (CT), magnetic resonance (MR), ultrasonography (US), intraoperative ultrasonography, angiography, and nuclear medicine have substantially aided tumour evaluation and, in general, led to the earlier detection of tiny tumour masses.
+  Because many techniques have been developed in recent years, based on several different radiopharmaceuticals, and these new techniques have successfully been used to visualise neuroendocrine tumours; this is especially due to the different metabolic pathways and features of neuroendocrine tissue, nuclear medicine has become increasingly involved in this topic. Despite the fact that neuroendocrine tumours are rather uncommon, nuclear medicine professionals are frequently faced with the diagnosis of neuroendocrine lesions in their daily practise.    
+	\end{enumerate}
+	\end{document}
